@@ -79,7 +79,25 @@ This project performs **Exploratory Data Analysis (EDA)** on a superstore datase
 * 🎯 Focus on top contributors can maximize profit
 
 ---
+# Power BI Dashboard
 
+## Dashboard Features
+- KPI Cards
+- Sales Trend Analysis
+- Profit by State
+- Dynamic Titles
+- Scatter Plot
+- Interactive Slicers
+- Top 5 Customers Analysis
+
+## Dashboard Preview
+
+![Dashboard](powerbi-dashboard/dashboard_screenshot.png)
+
+## Dashboard File
+The interactive Power BI dashboard is available in:
+
+powerbi-dashboard/superstore_sales_dashboard.pbix
 ## 🛠️ Tech Stack
 
 * Python
