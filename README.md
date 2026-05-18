@@ -1,3 +1,4 @@
+
 # 📊 Superstore Sales Analysis
 
 > 📊 Data Analysis project using Python to extract actionable business insights from retail sales data.
@@ -21,10 +22,6 @@ This project performs **Exploratory Data Analysis (EDA)** on a superstore datase
 ➡️ Sales show fluctuations over time with noticeable peak periods, indicating **seasonal demand patterns**.
 
 ---
-
-### 2️⃣ Monthly Growth Analysis
-
-![Monthly Sales & Growth Ratio](images/monthly_sales_and_growth_ratio.png)
 
 ➡️ Growth ratio highlights **inconsistent growth**, suggesting opportunities to stabilize revenue through better planning.
 
